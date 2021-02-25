@@ -1,0 +1,24 @@
+footer {
+  background-color: rgb(25,25,25);
+  text-align: center;
+  padding: 2.5% 1%;
+}
+
+footer > .social-media > a , footer > .social-media > a:visited {
+  color: wheat;
+  text-decoration: none;
+  font-size: 2em;
+  margin: 0 0.5%;
+}
+
+
+footer > .social-media > a:hover {
+  color: orange;
+}
+
+footer > hr {
+  border-top: 0;
+  border-bottom: 1px solid grey;
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
+}
